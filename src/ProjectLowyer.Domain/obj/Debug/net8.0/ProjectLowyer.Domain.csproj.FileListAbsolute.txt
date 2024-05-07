@@ -1,0 +1,8 @@
+D:\Projeto_Advogado\ProjectLowyer\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto_Advogado\ProjectLowyer\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.AssemblyInfoInputs.cache
+D:\Projeto_Advogado\ProjectLowyer\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.AssemblyInfo.cs
+D:\Projeto_Advogado\ProjectLowyer\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.csproj.CoreCompileInputs.cache
+D:\Projeto_Advogado\Repositorio\ProjectLowyer\src\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto_Advogado\Repositorio\ProjectLowyer\src\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.AssemblyInfoInputs.cache
+D:\Projeto_Advogado\Repositorio\ProjectLowyer\src\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.AssemblyInfo.cs
+D:\Projeto_Advogado\Repositorio\ProjectLowyer\src\ProjectLowyer.Domain\obj\Debug\net8.0\ProjectLowyer.Domain.csproj.CoreCompileInputs.cache
