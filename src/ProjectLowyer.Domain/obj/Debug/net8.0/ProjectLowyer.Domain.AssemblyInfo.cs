@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectLowyer.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a55df14fe5fcf7927c599bc48c32ac1584dd0879")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1a76c81c8c365407f11a88976982403dcb2ef4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectLowyer.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectLowyer.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
